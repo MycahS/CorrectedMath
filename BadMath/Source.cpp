@@ -8,7 +8,7 @@ float average(int i1, int i2, int i3)
 }
 
 int main()
-{
+{ 
 	int n1 =0 , n2 = 0, n3 = 0;
 	cout << "This program calculates the average of three numbers." << endl;
 	cout << "First number: "; cin >> n1;
